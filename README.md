@@ -1,7 +1,7 @@
 # allure-reports-image
 Minimalistic (88 MB) docker image for allure-reports generation. 
 
-Available @ [dockerhub](https://hub.docker.com/repository/docker/axldns/allure)
+Available @ [dockerhub](https://hub.docker.com/r/axldns/allure)
 
 Use it for your gitlab/github ci/cd 
 
